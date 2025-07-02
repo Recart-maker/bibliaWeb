@@ -1,0 +1,95 @@
+/* Estilos personalizados para el efecto neón y fondo oscuro */
+body {
+    background-color: #1a1a1a; /* Fondo muy oscuro */
+    font-family: 'Inter', sans-serif;
+    color: #f0f0f0; /* Texto blanco brillante por defecto */
+}
+.container {
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+.neon-label {
+    color: #00FFCC; /* Verde/Cian brillante */
+    font-weight: bold;
+}
+.neon-input, .neon-select {
+    background-color: #3a3a3a; /* Fondo más oscuro para inputs */
+    color: #FF33FF; /* Magenta brillante */
+    border-radius: 8px;
+    padding: 8px 12px;
+    border: 1px solid #555;
+    transition: border-color 0.3s ease-in-out;
+}
+.neon-input:focus, .neon-select:focus {
+    border-color: #00FFFF; /* Cian brillante al enfocar */
+    outline: none;
+}
+.neon-button {
+    background-color: #00CCFF; /* Azul brillante */
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0, 204, 255, 0.5); /* Sombra neón */
+}
+.neon-button:hover {
+    background-color: #0099FF; /* Azul un poco más oscuro al pasar el ratón */
+    color: white;
+    box-shadow: 0 0 15px rgba(0, 204, 255, 0.8);
+}
+.result-area {
+    background-color: #0d0d0d; /* Fondo muy oscuro, casi negro */
+    color: #f0f0f0;
+    border-radius: 12px;
+    padding: 20px;
+    min-height: 200px; /* Altura mínima */
+    overflow-y: auto; /* Scroll si el contenido es largo */
+    font-family: 'Consolas', monospace; /* Fuente más tecnológica */
+    line-height: 1.6;
+}
+.verse-reference {
+    color: #00FFFF; /* Cian brillante */
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    display: block;
+}
+.verse-number {
+    color: #FFFF00; /* Amarillo neón */
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-right: 5px;
+}
+.verse-text {
+    color: #00FF99; /* Verde neón */
+}
+.error-text {
+    color: #FF5555; /* Rojo para errores */
+    font-style: italic;
+    font-size: 0.9em;
+}
+.status-bar {
+    background-color: #2c2c2c;
+    color: #00FFCC;
+    padding: 10px;
+    border-top: 1px solid #444;
+    border-radius: 0 0 12px 12px;
+    position: sticky; /* Se mantiene en la parte inferior */
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: left;
+}
+
+.verse-reference {
+    color: #00FFFF; /* Cian brillante */
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    display: block;
+}

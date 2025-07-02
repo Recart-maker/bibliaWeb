@@ -1,0 +1,338 @@
+{
+    "Génesis": {
+        "autor": "Moisés",
+        "tema_principal": "Creación, el origen del pecado, el diluvio, la dispersión de las naciones y el comienzo del pacto de Dios con Israel a través de Abraham.",
+        "contexto": "Primer libro de la Torá/Pentateuco. Narra desde la creación del mundo hasta la muerte de José en Egipto."
+    },
+    "Éxodo": {
+        "autor": "Moisés",
+        "tema_principal": "La liberación de Israel de la esclavitud en Egipto, la entrega de la Ley en el Monte Sinaí y la construcción del Tabernáculo.",
+        "contexto": "Continúa la historia de los descendientes de Jacob, su esclavitud en Egipto y su liberación milagrosa."
+    },
+    "Levítico": {
+        "autor": "Moisés",
+        "tema_principal": "Leyes y reglamentos para la adoración a Dios, la santidad y la purificación del pueblo de Israel.",
+        "contexto": "Se centra en las leyes que Dios dio a Moisés en el Monte Sinaí, especialmente las relacionadas con el sacerdocio y los sacrificios."
+    },
+    "Números": {
+        "autor": "Moisés",
+        "tema_principal": "El censo del pueblo de Israel, su deambular por el desierto durante 40 años y las rebeliones contra Dios.",
+        "contexto": "Narra la historia de Israel desde su salida del Sinaí hasta su llegada a las llanuras de Moab, antes de entrar en Canaán."
+    },
+    "Deuteronomio": {
+        "autor": "Moisés",
+        "tema_principal": "Un resumen y repetición de la Ley de Dios, con énfasis en la obediencia y las bendiciones/maldiciones.",
+        "contexto": "Contiene los discursos finales de Moisés al pueblo de Israel antes de que crucen el Jordán para entrar en la Tierra Prometida."
+    },
+    "Josué": {
+        "autor": "Josué (principalmente)",
+        "tema_principal": "La conquista de Canaán y el reparto de la tierra entre las tribus de Israel, y la fidelidad de Dios a sus promesas.",
+        "contexto": "Narra la entrada de Israel en la Tierra Prometida bajo el liderazgo de Josué, tras la muerte de Moisés."
+    },
+    "Jueces": {
+        "autor": "Desconocido (tradicionalmente Samuel)",
+        "tema_principal": "Ciclo de apostasía, opresión, clamor a Dios, y liberación a través de jueces.",
+        "contexto": "Periodo turbulento de la historia de Israel antes de la monarquía, donde cada tribu hacía lo que le parecía bien."
+    },
+    "Rut": {
+        "autor": "Desconocido (tradicionalmente Samuel)",
+        "tema_principal": "Lealtad, redención y providencia divina en la vida de Rut, una moabita.",
+        "contexto": "Ambientada en la época de los jueces, muestra cómo Rut se convierte en antepasada de David."
+    },
+    "1 Samuel": {
+        "autor": "Desconocido (tradicionalmente Samuel, Gad y Natán)",
+        "tema_principal": "Transición de Israel de una teocracia a una monarquía bajo Saúl y el surgimiento de David.",
+        "contexto": "Narra la vida de Samuel, el reinado de Saúl y el ascenso de David."
+    },
+    "2 Samuel": {
+        "autor": "Desconocido (tradicionalmente Gad y Natán)",
+        "tema_principal": "El reinado de David, sus triunfos, pecados y las consecuencias en su familia y nación.",
+        "contexto": "Cubre el reinado de David sobre Israel y Judá."
+    },
+    "1 Reyes": {
+        "autor": "Desconocido (tradicionalmente Jeremías)",
+        "tema_principal": "Reinado de Salomón, división del reino y la historia de los reyes de Israel y Judá.",
+        "contexto": "Desde la muerte de David hasta el reinado de Acab y la aparición de Elías."
+    },
+    "2 Reyes": {
+        "autor": "Desconocido (tradicionalmente Jeremías)",
+        "tema_principal": "Historia de los reinos divididos, su decadencia y el exilio de Israel y Judá.",
+        "contexto": "Desde la muerte de Acab hasta la caída de Jerusalén y el exilio babilónico."
+    },
+    "1 Crónicas": {
+        "autor": "Esdras (tradicionalmente)",
+        "tema_principal": "Genealogías y la historia de David, preparación para la construcción del Templo.",
+        "contexto": "Revisión de la historia de Israel desde Adán hasta la muerte de David."
+    },
+    "2 Crónicas": {
+        "autor": "Esdras (tradicionalmente)",
+        "tema_principal": "Historia de los reyes de Judá, énfasis en el Templo y la fidelidad a Dios.",
+        "contexto": "Desde Salomón hasta el exilio en Babilonia."
+    },
+    "Esdras": {
+        "autor": "Esdras",
+        "tema_principal": "Regreso de los exiliados y reconstrucción del Templo en Jerusalén.",
+        "contexto": "Describe el retorno de Babilonia y las reformas religiosas."
+    },
+    "Nehemías": {
+        "autor": "Nehemías",
+        "tema_principal": "Reconstrucción de los muros de Jerusalén y reformas espirituales y sociales.",
+        "contexto": "Relata el liderazgo de Nehemías en la restauración de Jerusalén."
+    },
+    "Ester": {
+        "autor": "Desconocido (posiblemente Mardoqueo)",
+        "tema_principal": "Providencia y protección de Dios sobre su pueblo en el exilio.",
+        "contexto": "Historia de una joven judía que salva a su pueblo en Persia."
+    },
+    "Job": {
+        "autor": "Desconocido",
+        "tema_principal": "El sufrimiento del justo y la soberanía de Dios.",
+        "contexto": "Poema sapiencial sobre la fe en medio del sufrimiento."
+    },
+    "Salmos": {
+        "autor": "Varios (David, Asaf, Coré, Moisés, Salomón, etc.)",
+        "tema_principal": "Oraciones, alabanzas, lamentos y enseñanzas poéticas que expresan la relación del hombre con Dios.",
+        "contexto": "Colección de 150 cantos y poemas utilizados para la adoración y meditación en Israel."
+    },
+    "Proverbios": {
+        "autor": "Salomón (principalmente), Agur, Lemuel",
+        "tema_principal": "Sabiduría práctica para la vida diaria y el temor de Dios.",
+        "contexto": "Colección de dichos y enseñanzas para vivir rectamente."
+    },
+    "Eclesiastés": {
+        "autor": "Salomón (tradicionalmente)",
+        "tema_principal": "La vanidad de la vida sin Dios y la búsqueda del propósito verdadero.",
+        "contexto": "Reflexión filosófica sobre el sentido de la vida."
+    },
+    "Cantares": {
+        "autor": "Salomón",
+        "tema_principal": "Celebración poética del amor entre un hombre y una mujer.",
+        "contexto": "Poema lírico interpretado literal y alegóricamente."
+    },
+    "Isaías": {
+        "autor": "Isaías",
+        "tema_principal": "Juicio y restauración para Israel y las naciones; profecías mesiánicas.",
+        "contexto": "Profecías durante los reinados de varios reyes de Judá."
+    },
+    "Jeremías": {
+        "autor": "Jeremías",
+        "tema_principal": "Advertencias de juicio, llamado al arrepentimiento y promesa de un nuevo pacto.",
+        "contexto": "Profecías antes y durante la caída de Jerusalén."
+    },
+    "Lamentaciones": {
+        "autor": "Jeremías (tradicionalmente)",
+        "tema_principal": "Lamento por la destrucción de Jerusalén.",
+        "contexto": "Cinco poemas elegíacos tras la caída de la ciudad."
+    },
+    "Ezequiel": {
+        "autor": "Ezequiel",
+        "tema_principal": "Juicio, restauración y visiones del futuro Templo.",
+        "contexto": "Profecías a los exiliados en Babilonia."
+    },
+    "Daniel": {
+        "autor": "Daniel",
+        "tema_principal": "Fidelidad a Dios en el exilio y visiones apocalípticas.",
+        "contexto": "Narraciones y profecías en Babilonia y Persia."
+    },
+    "Oseas": {
+        "autor": "Oseas",
+        "tema_principal": "El amor fiel de Dios frente a la infidelidad de Israel.",
+        "contexto": "Alegoría del matrimonio de Oseas y Gomer."
+    },
+    "Joel": {
+        "autor": "Joel",
+        "tema_principal": "El Día del Señor: juicio y restauración.",
+        "contexto": "Plaga de langostas como símbolo del juicio venidero."
+    },
+    "Amós": {
+        "autor": "Amós",
+        "tema_principal": "Justicia social y juicio sobre Israel y las naciones.",
+        "contexto": "Profecías contra la opresión y la idolatría."
+    },
+    "Abdías": {
+        "autor": "Abdías",
+        "tema_principal": "Juicio contra Edom por su orgullo y hostilidad hacia Israel.",
+        "contexto": "Profecía más corta del Antiguo Testamento."
+    },
+    "Jonás": {
+        "autor": "Jonás",
+        "tema_principal": "La misericordia de Dios para todas las naciones.",
+        "contexto": "Historia del profeta enviado a Nínive."
+    },
+    "Miqueas": {
+        "autor": "Miqueas",
+        "tema_principal": "Juicio y esperanza; anuncio del nacimiento del Mesías en Belén.",
+        "contexto": "Profecías sobre Samaria y Jerusalén."
+    },
+    "Nahúm": {
+        "autor": "Nahúm",
+        "tema_principal": "Juicio sobre Nínive, capital de Asiria.",
+        "contexto": "Profecía sobre la caída de un imperio opresor."
+    },
+    "Habacuc": {
+        "autor": "Habacuc",
+        "tema_principal": "El problema del mal y la justicia de Dios.",
+        "contexto": "Diálogo entre el profeta y Dios sobre la invasión babilónica."
+    },
+    "Sofonías": {
+        "autor": "Sofonías",
+        "tema_principal": "El Día del Señor: juicio y restauración de un remanente.",
+        "contexto": "Profecía durante el reinado de Josías."
+    },
+    "Hageo": {
+        "autor": "Hageo",
+        "tema_principal": "Exhortación a reconstruir el Templo.",
+        "contexto": "Profecía tras el regreso del exilio."
+    },
+    "Zacarías": {
+        "autor": "Zacarías",
+        "tema_principal": "Llamado al arrepentimiento, visiones apocalípticas y profecías mesiánicas.",
+        "contexto": "Profecías durante la reconstrucción del Templo."
+    },
+    "Malaquías": {
+        "autor": "Malaquías",
+        "tema_principal": "Llamado al arrepentimiento y anuncio del mensajero del Señor.",
+        "contexto": "Último libro profético antes del período intertestamentario."
+    },
+    "Mateo": {
+        "autor": "Mateo",
+        "tema_principal": "Jesús como el Mesías y Rey prometido.",
+        "contexto": "Evangelio dirigido a judíos, enfatiza el cumplimiento de profecías."
+    },
+    "Marcos": {
+        "autor": "Marcos",
+        "tema_principal": "Jesús como el Siervo sufriente e Hijo de Dios.",
+        "contexto": "Evangelio breve y dinámico, dirigido a gentiles romanos."
+    },
+    "Lucas": {
+        "autor": "Lucas",
+        "tema_principal": "Jesús como Salvador de toda la humanidad.",
+        "contexto": "Evangelio detallado, dirigido a Teófilo y a los gentiles."
+    },
+    "Juan": {
+        "autor": "Juan",
+        "tema_principal": "Jesús como el Hijo de Dios y la Palabra encarnada.",
+        "contexto": "Evangelio teológico, enfatiza la fe y la vida eterna."
+    },
+    "Hechos": {
+        "autor": "Lucas",
+        "tema_principal": "Nacimiento y expansión de la iglesia cristiana primitiva.",
+        "contexto": "Desde la ascensión de Jesús hasta el ministerio de Pablo en Roma."
+    },
+    "Romanos": {
+        "autor": "Pablo",
+        "tema_principal": "Justificación por la fe, gracia y salvación para judíos y gentiles.",
+        "contexto": "Carta doctrinal a la iglesia en Roma."
+    },
+    "1 Corintios": {
+        "autor": "Pablo",
+        "tema_principal": "Problemas y divisiones en la iglesia; instrucción sobre la vida cristiana.",
+        "contexto": "Carta a la iglesia de Corinto."
+    },
+    "2 Corintios": {
+        "autor": "Pablo",
+        "tema_principal": "Defensa del apostolado y exhortación a la reconciliación.",
+        "contexto": "Segunda carta a los corintios, escrita en medio de dificultades."
+    },
+    "Gálatas": {
+        "autor": "Pablo",
+        "tema_principal": "Libertad en Cristo y justificación por la fe, no por la ley.",
+        "contexto": "Carta a las iglesias de Galacia."
+    },
+    "Efesios": {
+        "autor": "Pablo",
+        "tema_principal": "Unidad de la iglesia como cuerpo de Cristo y vida cristiana.",
+        "contexto": "Carta circular a las iglesias de Asia Menor."
+    },
+    "Filipenses": {
+        "autor": "Pablo",
+        "tema_principal": "Gozo, unidad y humildad en Cristo.",
+        "contexto": "Carta escrita desde la prisión a la iglesia de Filipos."
+    },
+    "Colosenses": {
+        "autor": "Pablo",
+        "tema_principal": "Supremacía y suficiencia de Cristo.",
+        "contexto": "Carta a la iglesia de Colosas para combatir herejías."
+    },
+    "1 Tesalonicenses": {
+        "autor": "Pablo",
+        "tema_principal": "Fe, esperanza y enseñanza sobre la segunda venida de Cristo.",
+        "contexto": "Primera carta a la iglesia de Tesalónica."
+    },
+    "2 Tesalonicenses": {
+        "autor": "Pablo",
+        "tema_principal": "Corrección de malentendidos sobre el regreso de Cristo.",
+        "contexto": "Segunda carta a los tesalonicenses."
+    },
+    "1 Timoteo": {
+        "autor": "Pablo",
+        "tema_principal": "Instrucciones sobre liderazgo y vida en la iglesia.",
+        "contexto": "Carta pastoral a Timoteo en Éfeso."
+    },
+    "2 Timoteo": {
+        "autor": "Pablo",
+        "tema_principal": "Exhortación final a la fidelidad y perseverancia.",
+        "contexto": "Última carta de Pablo antes de su muerte."
+    },
+    "Tito": {
+        "autor": "Pablo",
+        "tema_principal": "Organización y sana doctrina en la iglesia.",
+        "contexto": "Carta pastoral a Tito en Creta."
+    },
+    "Filemón": {
+        "autor": "Pablo",
+        "tema_principal": "Intercesión por Onésimo, un esclavo fugitivo.",
+        "contexto": "Carta personal a Filemón sobre el perdón y la reconciliación."
+    },
+    "Hebreos": {
+        "autor": "Desconocido (tradicionalmente Pablo)",
+        "tema_principal": "Superioridad de Cristo y el nuevo pacto.",
+        "contexto": "Exhortación a los creyentes judíos a perseverar en la fe."
+    },
+    "Santiago": {
+        "autor": "Santiago (hermano de Jesús)",
+        "tema_principal": "Fe práctica manifestada en obras.",
+        "contexto": "Carta general a los creyentes dispersos."
+    },
+    "1 Pedro": {
+        "autor": "Pedro",
+        "tema_principal": "Esperanza y santidad en medio del sufrimiento.",
+        "contexto": "Carta a los cristianos perseguidos en Asia Menor."
+    },
+    "2 Pedro": {
+        "autor": "Pedro",
+        "tema_principal": "Advertencia contra falsos maestros y recordatorio de la segunda venida.",
+        "contexto": "Carta de despedida a los creyentes."
+    },
+    "1 Juan": {
+        "autor": "Juan",
+        "tema_principal": "Comunión con Dios, amor fraternal y verdad sobre Cristo.",
+        "contexto": "Carta general a las iglesias de Asia Menor."
+    },
+    "2 Juan": {
+        "autor": "Juan",
+        "tema_principal": "Advertencia contra los que niegan la encarnación de Cristo.",
+        "contexto": "Carta breve a una señora elegida y sus hijos."
+    },
+    "3 Juan": {
+        "autor": "Juan",
+        "tema_principal": "Hospitalidad y apoyo a los misioneros.",
+        "contexto": "Carta breve a Gayo sobre el trato a los hermanos."
+    },
+    "Judas": {
+        "autor": "Judas (hermano de Jesús)",
+        "tema_principal": "Defensa de la fe contra falsos maestros.",
+        "contexto": "Carta breve a los creyentes en general."
+    },
+    "Apocalipsis": {
+        "autor": "Juan",
+        "tema_principal": "Revelación profética sobre el fin de los tiempos y el triunfo de Cristo.",
+        "contexto": "Visiones dadas a Juan en la isla de Patmos."
+    }
+}
+
+        
+
+
+
+
